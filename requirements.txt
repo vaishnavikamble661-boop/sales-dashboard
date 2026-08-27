@@ -1,4 +1,0 @@
-pandas
-sreamlit
-plotly
-scipy
