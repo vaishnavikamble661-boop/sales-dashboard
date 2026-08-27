@@ -1,1 +1,3 @@
-sreamlit and ploty
+pandas
+sreamlit
+plotly
