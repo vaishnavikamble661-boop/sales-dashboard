@@ -1,3 +1,4 @@
+import os; os.system("pip install pandas plotly scipy")
 import streamlit as st
 import pandas as pd
 import plotly.express as px
